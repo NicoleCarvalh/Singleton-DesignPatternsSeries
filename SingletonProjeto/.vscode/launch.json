@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ProjetoComSingleton.App",
+      "projectName": "SingletonProject_2e35e853"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "ProjetoSemSingleton.App",
+      "projectName": "SingletonProject_2e35e853"
+    },
+    {
+      "name": "dart_application_1",
+      "request": "launch",
+      "type": "dart",
+      "console": "terminal"
+    }
+  ]
+}
